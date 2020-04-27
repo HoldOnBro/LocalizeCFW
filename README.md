@@ -1,0 +1,2 @@
+# LocallizeCFW
+CFW汉化

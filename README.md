@@ -1,4 +1,4 @@
-# LocallizeCFW
+# LocalizeCFW
 CFW汉化
 
 ### 食用方法
